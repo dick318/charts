@@ -799,7 +799,7 @@ entries:
     urls:
     - http://ygqygq2.github.io/charts/zipkin-1.0.1.tgz
     version: 1.0.1
-  seata:
+  seata-server:
   - apiVersion: v1
     appVersion: "2"
     created: 2020-01-13T15:04:46.504484366+08:00
@@ -811,8 +811,8 @@ entries:
     maintainers:
     - email: 29ygq@sina.com
       name: Chinge Yang
-    name: seata
+    name: seata-server
     urls:
-    - https://github.com/dick318/charts/blob/gh-pages/seata-1.0.0.tgz
+    - https://github.com/dick318/charts/blob/gh-pages/seata-server-1.0.0.tgz
     version: 1.0.0
 generated: 2020-01-13T15:04:46.449988268+08:00
