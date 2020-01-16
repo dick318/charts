@@ -814,5 +814,5 @@ entries:
     name: seata
     urls:
     - https://github.com/dick318/charts/blob/gh-pages/seata-1.0.0.tgz
-    version: 1.0.1
+    version: 1.0.0
 generated: 2020-01-13T15:04:46.449988268+08:00
