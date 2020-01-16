@@ -799,4 +799,9 @@ entries:
     urls:
     - http://ygqygq2.github.io/charts/zipkin-1.0.1.tgz
     version: 1.0.1
+  seata-server:
+  - apiVersion: v1
+    entries: {}
+    keywords:
+    - seata
 generated: 2020-01-13T15:04:46.449988268+08:00
